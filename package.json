@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://umeshair.github.io/portfolio",
+  "homepage": "https://www.umesh-air.com.np",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

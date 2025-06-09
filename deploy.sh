@@ -8,4 +8,4 @@ npm run build
 echo "Deploying to GitHub Pages..."
 npm run deploy
 
-echo "Deployment complete! Your site should be available at https://umeshair.github.io/portfolio"
+echo "Deployment complete! Your site should be available at https://www.umesh-air.com.np"

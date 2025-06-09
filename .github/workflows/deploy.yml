@@ -31,3 +31,4 @@ jobs:
         with:
           folder: dist
           branch: gh-pages
+          cname: www.umesh-air.com.np
