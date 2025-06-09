@@ -27,7 +27,7 @@ const Navbar = () => {
       <div className="navbar-container">
         {/* Logo on the left */}
         <div className="navbar-logo">
-          <a href="/blog">
+          <a href="./blog">
             <img src={codingsyLogo} alt="UMESH AIR Logo" />
           </a>
         </div>
@@ -37,7 +37,7 @@ const Navbar = () => {
         {/* Navigation links in the middle */}
         <div className="navbar-menu">
           <ul className="nav-links">
-            <li><a href="/blog" className="nav-link"></a></li>
+            <li><a href="./blog" className="nav-link"></a></li>
           </ul>
         </div>
 

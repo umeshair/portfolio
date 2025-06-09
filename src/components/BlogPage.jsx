@@ -40,7 +40,7 @@ const BlogPage = () => {
       {/* Left Intro Panel */}
       <div className="intro-panel">
         <div className="profile-section">
-          <img src="/Arith.svg" alt="Umesh Air" className="profile-image" />
+          <img src="./Arith.svg" alt="Umesh Air" className="profile-image" />
           <h2>Umesh Air</h2>
           <p className="title">Founder, Inbho & Full Stack Web Developer</p>
           
